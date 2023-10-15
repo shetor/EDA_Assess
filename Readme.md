@@ -39,7 +39,8 @@ Ubuntu中安装CLion：
 
 采用二次线长模型，假设所有标准单元两两互连，pin的位置为标准单元中心，且所有标准单元大小是固定且相等的，我们可以通过穷举的方法来计算移动标准单元之后的总线长
 
-![image-20231015093740490](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20231015093740490.png)
+![image](https://github.com/shetor/EDA_Assess/assets/112966567/60ccb267-3053-4a33-918e-a9da0c107514)
+
 
 如上图，线长即为（x_i-x_j）^2
 
