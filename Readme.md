@@ -4,37 +4,6 @@
 
 本次项目数据来源于简化后的ICCAD赛题测试用例，项目目标是采用穷举或者其他方法完成一个小数目的模块布局任务，布局目标为总线长最短。希望大家能在此次项目中获得提升。
 
-请各位同学到https://github.com/shetor/EDA_Assess中fork这个仓库到本地，后续我们将会查看各位同学仓库的完成情况
-
-## 环境搭建
-
-### Ubuntu系统安装：
-
-+ [双系统安装](https://blog.csdn.net/Flag_ing/article/details/121908340)
-+ [虚拟机](https://blog.51cto.com/u_15980043/6084029)
-
-### Git
-
-[git学习及配置](https://www.liaoxuefeng.com/wiki/896043488029600)
-
-### VPN配置
-
-
-
-
-
-### 本地开发环境
-
-Ubuntu中安装CLion：
-
-1. [安装参考](https://blog.csdn.net/feimeng116/article/details/105898892)
-
-2. [破解参考1](https://www.bilibili.com/read/cv24307324/)
-
-3. [破解参考2](https://www.quanxiaoha.com/clion-pojie/clion-pojie-202313.html)
-
-[CMake语法练习](https://github.com/ttroy50/cmake-examples)
-
 ### 问题建模
 
 采用二次线长模型，假设所有标准单元两两互连，pin的位置为标准单元中心，且所有标准单元大小是固定且相等的，我们可以通过穷举的方法来计算移动标准单元之后的总线长
